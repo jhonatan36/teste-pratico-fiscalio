@@ -11,7 +11,7 @@ class notaFiscal extends Controller
      */
     public function index()
     {
-        //
+        dd('teste notafiscal');
     }
 
     /**
